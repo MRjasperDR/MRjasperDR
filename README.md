@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MRjasperDR
 - 👀 I’m interested in building games & creating websites.
-- 🌱 I’m currently learning Fontys HBO-ICT
+- 🌱 I’m currently studying Fontys HBO-ICT
 
 <!---
 - 💞️ I’m looking to collaborate on ...
